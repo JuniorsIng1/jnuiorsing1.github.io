@@ -1,0 +1,52 @@
+p{
+	font-size: 20px;
+	color: red;
+}
+.test{
+	color: blue;
+}
+#test{
+	color: green;
+}
+.title-big{
+	font-size: 50px;
+	color: green;
+}
+.content{
+	text-align: justify;
+}
+.main{
+	background-color: #FDFFF5;
+	font-family: fantasy;
+	width: 65%;
+	margin: 0 auto;
+}	
+h3{
+	font-size: 60px;
+
+}
+.news > article > h2{
+	font-size: 32px;
+}
+.news{
+	text-align: center;
+}
+.quote{
+	display: inline-block;
+	padding: 20px 30px;
+	color: #404040;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	border: 2px solid #bbb;
+ 	border-radius: 50px 20px;
+}
+.quote-author{
+	display: block;
+	font-weight: normal;
+	font-size: 16px;
+	text-align: right;
+}
+.quote h3{
+	font-size: 35px;
+}
